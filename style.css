@@ -13,10 +13,13 @@ body {
 }
 
 .titulo-principal {
+    font-size: 20px; 
+    font-weight: bold;
     padding-Left: 20px;
 }
 
 .titulo-centralizado {
+    font-weight: bold;
     text-align: center; 
 }
 
